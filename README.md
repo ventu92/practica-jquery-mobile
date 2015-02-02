@@ -16,7 +16,7 @@ Los datos en los que nos  basaremos corresponde a la Guía de calificación oral
 - Contenido (Metodología seguida, Claridad, Actividades o acciones realizadas, Documentación elaborada) 
 - Resultados obtenidos (Conclusiones, Objetivos conseguidos y grado de consecución)
 
-**CALIDAD DE PRESENTACION (Máx. 1 pto.  Representa el 10 %) **
+**CALIDAD DE PRESENTACION (Máx. 1 pto.  Representa el 10 %)**
 - Presentación escrita. 
 - Redacción y claridad del texto
 - Organización del contenido
