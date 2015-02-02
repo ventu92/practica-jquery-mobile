@@ -9,7 +9,6 @@ Los requerimientos son los siguientes:
 - Formulario para inserción y envío de nota.
 - Se valorará especialmente la usabilidad del la aplicación: debe mostrar de una u otra forma el texto explicativo para el uso de la aplicación sin "llenar la pantalla".
 - No es necesario incorporar lógica a la aplicación (javaScript) salvo el propio del framework. Nos debemos centrar en el diseño, sin embargo se valorará positivamente. Ej: El login de usuario no se validará vía ajax y los usuarios y cursos vendrán preconfigurados.
--
 
 Los datos en los que nos  basaremos corresponden a la Guía de calificación oral de los alumnos:
 
