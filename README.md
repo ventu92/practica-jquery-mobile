@@ -1,15 +1,17 @@
 # practica-jquery-mobile
 Práctica diseño aplicación web enfocada para móviles mediante el uso del framework jQuery Mobile
 
-La aplicación consistirá en una interfaz para que los profesores puedan introducir las notas de exposiciones de proyectos por parte de los alumnos de formación profesional. 
+La aplicación consistirá en una **interfaz** para que los profesores puedan introducir las notas de exposiciones de proyectos por parte de los alumnos de formación profesional. 
 Los requerimientos son los siguientes:
 - Acceso mediante login y password para el profesorado
 - Selección de curso y alumno
 - Lista de items a valorar durante la expresión oral que ayudará a la evaluación final del alumno.
 - Formulario para inserción y envío de nota.
-- Se debe mostrar de una u otra forma el texto explicativo para el uso de la explicación, sin mermar la usabilidad de la misma.
+- Se valorará especialmente la usabilidad del la aplicación: debe mostrar de una u otra forma el texto explicativo para el uso de la aplicación sin "llenar la pantalla".
+- No es necesario incorporar lógica a la aplicación (javaScript) salvo el propio del framework. Nos debemos centrar en el diseño, sin embargo se valorará positivamente. Ej: El login de usuario no se validará vía ajax y los usuarios y cursos vendrán preconfigurados.
+-
 
-Los datos en los que nos  basaremos corresponde a la Guía de calificación oral de los alumnos:
+Los datos en los que nos  basaremos corresponden a la Guía de calificación oral de los alumnos:
 
 **CONTENIDO DEL PROYECTO     (Máximo 6,5 ptos.   Representa el 65%)**
 - Planteamiento (Objetivos, Recursos utilizados, Destinatarios, Justificación del proyecto)
