@@ -10,6 +10,7 @@ Los requerimientos son los siguientes:
 - Se debe mostrar de una u otra forma el texto explicativo para el uso de la explicación, sin mermar la usabilidad de la misma.
 
 Los datos en los que nos  basaremos corresponde a la Guía de calificación oral de los alumnos:
+
 **CONTENIDO DEL PROYECTO     (Máximo 6,5 ptos.   Representa el 65%)**
 - Planteamiento (Objetivos, Recursos utilizados, Destinatarios, Justificación del proyecto)
 - Contenido (Metodología seguida, Claridad, Actividades o acciones realizadas, Documentación elaborada) 
@@ -21,6 +22,7 @@ Los datos en los que nos  basaremos corresponde a la Guía de calificación oral
 - Organización del contenido
 
 **EXPRESIÓN ORAL  (Máximo 2,5 ptos.  Representa el 25%)**
+
 Aspectos a valorar en la expresión oral:
 - **Entrada del alumno**
 - **Indumentaria**
