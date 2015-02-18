@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="UTF-8">
+	<title>Aplicación móvil</title>
+	<link rel="stylesheet" href="jquery.mobile-1.4.5.min.css" />
+	<script src="jquery-1.10.2.js"></script>
+	<script src="jquery.mobile-1.4.5.min.js"></script>
+</head>
+
+<body>
+	<div data-role="page" id="main">
+		<div data-role="header">
+			<h1>Cursos y alumnos</h1>
+		</div>
+		<div data-role="content">
+			<form action="#" method="get">
+				<h2> Selecciona curso y alumno </h2>
+
+				<select name="cursos" id="cursos" data-native-menu="false">
+					<option>Cursos</option>
+					<option value="DAW">DAW</option>
+					<option value="DIW">DIW</option>
+					<option value="DWEC">DWEC</option>
+					<option value="DWES">DWES</option>
+					<option value="DWES">INGLES</option>
+					<option value="DWES">E.I.E</option>
+				</select>
+				<select name="alumnos" id="alumnos" data-native-menu="false">
+					<option>Alumnos</option>
+					<option value="alumno1">alumno1</option>
+					<option value="alumno2">alumno2</option>
+					<option value="alumno3">alumno3</option>
+					<option value="alumno4">alumno4</option>
+				</select>
+			</form>
+		</div>
+		<div data-role="footer" class="ui-bar">
+			<a href="index.html" data-role="button" data-icon="back">Salir</a>
+			<a href="notas.html" data-role="button" data-icon="check-black">Calificar</a>
+		</div>
+	</div>
+</body>
+</html>
